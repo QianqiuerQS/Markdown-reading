@@ -1,5 +1,7 @@
 # Markdown Reading Extension
 
+![Logo](unnamed.jpg)
+
 A VSCode extension that allows you to directly read compiled Markdown files in the editor.
 
 ## Features

@@ -3,7 +3,13 @@
   "displayName": "Markdown Reading",
   "description": "Directly read compiled markdown in the editor.",
   "version": "0.0.1",
-  "publisher": "antigravity",
+  "publisher": "QianqiuerQS",
+  "icon": "unnamed.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QianqiuerQS/Markdown-reading.git"
+  },
+  "homepage": "https://github.com/QianqiuerQS/Markdown-reading",
   "engines": {
     "vscode": "^1.70.0"
   },
