@@ -14,9 +14,3 @@ A VSCode extension that allows you to directly read compiled Markdown files in t
 2. Right-click anywhere in the editor.
 3. Select "Markdown-reading".
 4. The file will be rendered as HTML in the same tab.
-
-## Local Development
-
-1. Open the project in VSCode.
-2. Run `npm install`.
-3. Press `F5` to open a new VSCode window with the extension loaded.
